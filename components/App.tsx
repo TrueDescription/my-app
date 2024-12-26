@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from 'react';
 import { JeopardyBoard } from '@/components/JeopardyBoard';
 import { TeamScores } from '@/components/TeamScores';
@@ -20,6 +18,7 @@ export default function App() {
     }
 
     if (isSteal) {
+      // If it's a steal, the stealing team gets to continue
       setCurrentTeam(targetTeam);
     }
   };
@@ -29,12 +28,14 @@ export default function App() {
     const skips = nextTeam === 1 ? team1Skips : team2Skips;
     
     if (skips > 0) {
+      // If the next team has skips, reduce their skip count and keep the current team
       if (nextTeam === 1) {
         setTeam1Skips(prev => prev - 1);
       } else {
         setTeam2Skips(prev => prev - 1);
       }
     } else {
+      // Otherwise, switch to the next team
       setCurrentTeam(nextTeam);
     }
   };

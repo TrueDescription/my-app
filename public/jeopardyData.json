@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name": "History",
+      "questions": [
+        {"value": 100, "question": "This president was known as 'Honest Abe'", "answer": "Who is Abraham Lincoln?"},
+        {"value": 200, "question": "This ancient wonder was a lighthouse", "answer": "What is the Lighthouse of Alexandria?"},
+        {"value": 300, "question": "This empire was ruled by the Incas", "answer": "What is the Incan Empire?"},
+        {"value": 400, "question": "This document limited the power of English monarchs", "answer": "What is the Magna Carta?"},
+        {"value": 500, "question": "This general crossed the Alps with elephants", "answer": "Who is Hannibal?"},
+        {"value": 600, "question": "This civilization built Machu Picchu", "answer": "Who are the Incas?"},
+        {"value": 700, "question": "This was the capital of the Byzantine Empire", "answer": "What is Constantinople?"}
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {"value": 100, "question": "This planet is known as the Red Planet", "answer": "What is Mars?"},
+        {"value": 200, "question": "This element has the atomic number 79", "answer": "What is Gold?"},
+        {"value": 300, "question": "This scientist developed the theory of relativity", "answer": "Who is Albert Einstein?"},
+        {"value": 400, "question": "This is the hardest natural substance on Earth", "answer": "What is diamond?"},
+        {"value": 500, "question": "This particle has a negative charge", "answer": "What is an electron?"},
+        {"value": 600, "question": "This force keeps planets in orbit", "answer": "What is gravity?"},
+        {"value": 700, "question": "This acid is found in our stomach", "answer": "What is hydrochloric acid?"}
+      ]
+    },
+    {
+      "name": "Literature",
+      "questions": [
+        {"value": 100, "question": "This author wrote '1984'", "answer": "Who is George Orwell?"},
+        {"value": 200, "question": "This Shakespeare play features the character Puck", "answer": "What is A Midsummer Night's Dream?"},
+        {"value": 300, "question": "This novel's main character is named Holden Caulfield", "answer": "What is The Catcher in the Rye?"},
+        {"value": 400, "question": "This author wrote 'One Hundred Years of Solitude'", "answer": "Who is Gabriel García Márquez?"},
+        {"value": 500, "question": "This Greek poet wrote the Iliad and the Odyssey", "answer": "Who is Homer?"},
+        {"value": 600, "question": "This Russian author wrote 'War and Peace'", "answer": "Who is Leo Tolstoy?"},
+        {"value": 700, "question": "This Irish author wrote 'Ulysses'", "answer": "Who is James Joyce?"}
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {"value": 100, "question": "This is the largest ocean on Earth", "answer": "What is the Pacific Ocean?"},
+        {"value": 200, "question": "This country is home to the Great Barrier Reef", "answer": "What is Australia?"},
+        {"value": 300, "question": "This is the longest river in the world", "answer": "What is the Nile?"},
+        {"value": 400, "question": "This mountain is the tallest in North America", "answer": "What is Denali (Mount McKinley)?"},
+        {"value": 500, "question": "This African country is known as the 'Rainbow Nation'", "answer": "What is South Africa?"},
+        {"value": 600, "question": "This is the driest desert in the world", "answer": "What is the Atacama Desert?"},
+        {"value": 700, "question": "This European city is known as the 'City of Light'", "answer": "What is Paris?"}
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {"value": 100, "question": "This sport uses a shuttlecock", "answer": "What is badminton?"},
+        {"value": 200, "question": "This country won the first FIFA World Cup", "answer": "What is Uruguay?"},
+        {"value": 300, "question": "This athlete has won the most Olympic gold medals", "answer": "Who is Michael Phelps?"},
+        {"value": 400, "question": "This tennis Grand Slam is played on clay courts", "answer": "What is the French Open?"},
+        {"value": 500, "question": "This sport is known as the 'king of sports'", "answer": "What is soccer/football?"},
+        {"value": 600, "question": "This NBA team won the most championships in the 1960s", "answer": "Who are the Boston Celtics?"},
+        {"value": 700, "question": "This martial art translates to 'gentle way'", "answer": "What is Judo?"}
+      ]
+    },
+    {
+      "name": "Music",
+      "questions": [
+        {"value": 100, "question": "This 'King' of Rock and Roll sang 'Hound Dog'", "answer": "Who is Elvis Presley?"},
+        {"value": 200, "question": "This Beatles album features a zebra crossing", "answer": "What is Abbey Road?"},
+        {"value": 300, "question": "This composer wrote 'The Four Seasons'", "answer": "Who is Antonio Vivaldi?"},
+        {"value": 400, "question": "This instrument has 88 keys", "answer": "What is a piano?"},
+        {"value": 500, "question": "This genre of music originated in New Orleans", "answer": "What is Jazz?"},
+        {"value": 600, "question": "This opera by Puccini features the aria 'Nessun Dorma'", "answer": "What is Turandot?"},
+        {"value": 700, "question": "This electronic music genre originated in Detroit in the 1980s", "answer": "What is Techno?"}
+      ]
+    },
+    {
+      "name": "Movies",
+      "questions": [
+        {"value": 100, "question": "This movie features a giant ape climbing the Empire State Building", "answer": "What is King Kong?"},
+        {"value": 200, "question": "This actor played Tony Stark in the Marvel Cinematic Universe", "answer": "Who is Robert Downey Jr.?"},
+        {"value": 300, "question": "This director is known for films like 'Pulp Fiction' and 'Kill Bill'", "answer": "Who is Quentin Tarantino?"},
+        {"value": 400, "question": "This 1942 film's last line is 'Louis, I think this is the beginning of a beautiful friendship'", "answer": "What is Casablanca?"},
+        {"value": 500, "question": "This actress won an Oscar for her role in 'Blue Jasmine'", "answer": "Who is Cate Blanchett?"},
+        {"value": 600, "question": "This Japanese animated film features a bathhouse for spirits", "answer": "What is Spirited Away?"},
+        {"value": 700, "question": "This director pioneered the 'jump cut' in 'Breathless'", "answer": "Who is Jean-Luc Godard?"}
+      ]
+    }
+  ]
+}
+
