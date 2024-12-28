@@ -1,87 +1,147 @@
 {
   "categories": [
     {
-      "name": "History",
+      "name": "Flags",
       "questions": [
-        {"value": 100, "question": "This president was known as 'Honest Abe'", "answer": "Who is Abraham Lincoln?"},
-        {"value": 200, "question": "This ancient wonder was a lighthouse", "answer": "What is the Lighthouse of Alexandria?"},
-        {"value": 300, "question": "This empire was ruled by the Incas", "answer": "What is the Incan Empire?"},
-        {"value": 400, "question": "This document limited the power of English monarchs", "answer": "What is the Magna Carta?"},
-        {"value": 500, "question": "This general crossed the Alps with elephants", "answer": "Who is Hannibal?"},
-        {"value": 600, "question": "This civilization built Machu Picchu", "answer": "Who are the Incas?"},
-        {"value": 700, "question": "This was the capital of the Byzantine Empire", "answer": "What is Constantinople?"}
+        {"value": 100, "question": "https://cdn.britannica.com/20/5120-131-92C41B54/Flag-Jamaica.jpg", "answer": "Jamaica"},
+        {"value": 200, "question": "https://cdn.britannica.com/10/5110-131-E09C4E10/Flag-Cuba.jpg", "answer": "Cuba"},
+        {"value": 300, "question": "https://cdn.britannica.com/70/2970-131-84387131/Flag-Nepal.jpg", "answer": "Nepal"},
+        {"value": 400, "question": "https://cdn.britannica.com/40/5340-131-25217F5B/Flag-Afghanistan.jpg", "answer": "Afghanistan"},
+        {"value": 500, "question": "https://cdn.britannica.com/12/4212-131-05399C31/Flag-Angola.jpg", "answer": "Angola"},
+        {"value": 600, "question": "https://cdn.britannica.com/96/3296-131-2CA4815A/Flag-Papua-New-Guinea.jpg", "answer": "Papua New Guinea"},
+        {"value": 700, "question": "https://freedomdestinations.co.uk/wp-content/uploads/Untitled-design-1-1.png", "answer": "Tanzania"}
       ]
     },
     {
-      "name": "Science",
+      "name": "Women",
       "questions": [
-        {"value": 100, "question": "This planet is known as the Red Planet", "answer": "What is Mars?"},
+        {"value": 100, "question": "Known as the favourite color", "answer": "What is Pink?"},
         {"value": 200, "question": "This element has the atomic number 79", "answer": "What is Gold?"},
         {"value": 300, "question": "This scientist developed the theory of relativity", "answer": "Who is Albert Einstein?"},
-        {"value": 400, "question": "This is the hardest natural substance on Earth", "answer": "What is diamond?"},
-        {"value": 500, "question": "This particle has a negative charge", "answer": "What is an electron?"},
+        {"value": 400, "question": "A professional boxer. She won the gold medal in the women's 66 kg boxing event in a summer olympics", 
+        "answer": "Who is Imane Khelif?"},
+        {"value": 500, "question": "This women was elected women of the year 2015", "answer": "Who is Caitlyn Jenner?"},
         {"value": 600, "question": "This force keeps planets in orbit", "answer": "What is gravity?"},
-        {"value": 700, "question": "This acid is found in our stomach", "answer": "What is hydrochloric acid?"}
+        {"value": 700, "question": "Who is the husband of Scarelett Johanson", "answer": "Who is Colin Jost?"}
       ]
     },
     {
-      "name": "Literature",
+      "name": "Name This Person",
       "questions": [
-        {"value": 100, "question": "This author wrote '1984'", "answer": "Who is George Orwell?"},
-        {"value": 200, "question": "This Shakespeare play features the character Puck", "answer": "What is A Midsummer Night's Dream?"},
-        {"value": 300, "question": "This novel's main character is named Holden Caulfield", "answer": "What is The Catcher in the Rye?"},
-        {"value": 400, "question": "This author wrote 'One Hundred Years of Solitude'", "answer": "Who is Gabriel García Márquez?"},
-        {"value": 500, "question": "This Greek poet wrote the Iliad and the Odyssey", "answer": "Who is Homer?"},
-        {"value": 600, "question": "This Russian author wrote 'War and Peace'", "answer": "Who is Leo Tolstoy?"},
-        {"value": 700, "question": "This Irish author wrote 'Ulysses'", "answer": "Who is James Joyce?"}
+        {"value": 100, "question": "https://e3.365dm.com/23/05/1600x900/skynews-al-pacino-child_6173814.jpg?20230531092506", 
+        "answer": "Who is Al Pacino?"},
+        {"value": 200, "question": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSq2C9xbWfktj5rYIbJhveZV43WjocMib0tY3EleAFJIun8DHeHQdnMMn41hCgH6Ymspko9LES2vHayWZw", 
+        "answer": "Who is Anthony Hopkins?"},
+        {"value": 300, "question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowkiNA3FBJ017_McUFO6HsG9ybDc9KG1Vkg&s", 
+        "answer": "Who is Michelle Monaghan?"},
+        {"value": 400, "question": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMvJgu_cJe32-uhvimrnO3nKahAECCRfF_b6CQAK7KywWUsBCGMpi1ITdM4LMR2kg_KdF2oxY-RpH1sggh7IHa8g", 
+        "answer": "Who is Ben Kingsly?"},
+        {"value": 500, "question": "This Greek poet wrote the Iliad and the Odyssey", 
+        "answer": "Who is Homer?"},
+        {"value": 600, "question": "This Russian author wrote 'War and Peace'", 
+        "answer": "Who is Leo Tolstoy?"},
+        {"value": 700, "question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQueKF1_X1Lz7cgg4Xr8ThhKQakZMz0cb6o7g&s", 
+        "answer": "Who is Ella Purnell?"}
       ]
     },
     {
       "name": "Geography",
       "questions": [
-        {"value": 100, "question": "This is the largest ocean on Earth", "answer": "What is the Pacific Ocean?"},
-        {"value": 200, "question": "This country is home to the Great Barrier Reef", "answer": "What is Australia?"},
-        {"value": 300, "question": "This is the longest river in the world", "answer": "What is the Nile?"},
-        {"value": 400, "question": "This mountain is the tallest in North America", "answer": "What is Denali (Mount McKinley)?"},
-        {"value": 500, "question": "This African country is known as the 'Rainbow Nation'", "answer": "What is South Africa?"},
-        {"value": 600, "question": "This is the driest desert in the world", "answer": "What is the Atacama Desert?"},
-        {"value": 700, "question": "This European city is known as the 'City of Light'", "answer": "What is Paris?"}
+        {"value": 100, "question": "Known as the largest desert on earth", "answer": "What is the The Sahara Desert?"},
+        {
+          "value": 300,
+          "question": "Excluding continents, this is the world’s largest island by area, located between the Arctic and Atlantic Oceans.",
+          "answer": "What is Greenland?"
+        },
+        {
+          "value": 200,
+          "question": "Despite its frigid conditions, this polar region is actually considered the largest desert in the world.",
+          "answer": "What is Antarctica?"
+        },
+        {
+          "value": 400,
+          "question": "This Peruvian UNESCO World Heritage site is perched high in the Andes Mountains.",
+          "answer": "What is Machu Picchu?"
+        },
+        {
+          "value": 500,
+          "question": "Name a country for every letter in the alphabet except X.",
+          "answer": ""
+        },
+        {
+          "value": 600,
+          "question": "This famous city is uniquely situated on two continents, divided by the Bosporus Strait.",
+          "answer": "What is Istanbul?"
+        },
+        {
+          "value": 700,
+          "question": "Located on the Zambezi River at the border between Zambia and Zimbabwe, this waterfall is known locally as 'Mosi-oa-Tunya,' or 'The Smoke that Thunders.'",
+          "answer": "What is Victoria Falls?"
+        }
       ]
     },
     {
-      "name": "Sports",
+      "name": "Mini Games",
       "questions": [
-        {"value": 100, "question": "This sport uses a shuttlecock", "answer": "What is badminton?"},
-        {"value": 200, "question": "This country won the first FIFA World Cup", "answer": "What is Uruguay?"},
-        {"value": 300, "question": "This athlete has won the most Olympic gold medals", "answer": "Who is Michael Phelps?"},
-        {"value": 400, "question": "This tennis Grand Slam is played on clay courts", "answer": "What is the French Open?"},
-        {"value": 500, "question": "This sport is known as the 'king of sports'", "answer": "What is soccer/football?"},
-        {"value": 600, "question": "This NBA team won the most championships in the 1960s", "answer": "Who are the Boston Celtics?"},
-        {"value": 700, "question": "This martial art translates to 'gentle way'", "answer": "What is Judo?"}
+        {"value": 100, "question": "Wordle", "answer": ""},
+        {"value": 200, "question": "Globele", "answer": ""},
+        {"value": 300, "question": "Travle", "answer": ""},
+        {"value": 400, "question": "Time Guesser; Best score of 2 attempts each", "answer": ""},
+        {"value": 500, "question": "Password; Best of 3", "answer": ""},
+        {"value": 600, "question": "JackBox Torch Game", "answer": ""},
+        {"value": 700, "question": "Describe the Image; Explain It!", "answer": ""}
       ]
     },
     {
-      "name": "Music",
+      "name": "History",
       "questions": [
-        {"value": 100, "question": "This 'King' of Rock and Roll sang 'Hound Dog'", "answer": "Who is Elvis Presley?"},
-        {"value": 200, "question": "This Beatles album features a zebra crossing", "answer": "What is Abbey Road?"},
-        {"value": 300, "question": "This composer wrote 'The Four Seasons'", "answer": "Who is Antonio Vivaldi?"},
-        {"value": 400, "question": "This instrument has 88 keys", "answer": "What is a piano?"},
-        {"value": 500, "question": "This genre of music originated in New Orleans", "answer": "What is Jazz?"},
-        {"value": 600, "question": "This opera by Puccini features the aria 'Nessun Dorma'", "answer": "What is Turandot?"},
-        {"value": 700, "question": "This electronic music genre originated in Detroit in the 1980s", "answer": "What is Techno?"}
+        {
+          "value": 100,
+          "question": "This Carthaginian general famously led war elephants across the Alps during the Second Punic War.",
+          "answer": "Who is Hannibal Barca?"
+        },
+        {
+          "value": 200,
+          "question": "He unified China under a single imperial rule in the 3rd century BCE, standardizing weights, measures, and currency.",
+          "answer": "Who is Qin Shi Huang?"
+        },
+        {
+          "value": 300,
+          "question": "Known as the 'Iron King,' this French monarch’s clashes with the papacy and the Knights Templar had far-reaching consequences in medieval Europe.",
+          "answer": "Who is Philip IV?"
+        },
+        {
+          "value": 400,
+          "question": "Renowned for commissioning the 'Domesday Book,' this Norman ruler secured his power in England after his victory at the Battle of Hastings in 1066.",
+          "answer": "Who is William the Conqueror?"
+        },
+        {
+          "value": 500,
+          "question": "Crowned Emperor of the Romans in 800 CE, he united much of Western Europe, ushering in a Carolingian Renaissance.",
+          "answer": "Who is Charlemagne?"
+        },
+        {
+          "value": 600,
+          "question": "This Venetian merchant traveled the Silk Road to the court of Kublai Khan and later published a book that inspired explorers like Columbus.",
+          "answer": "Who is Marco Polo?"
+        },
+        {
+          "value": 700,
+          "question": "What are the seven wonders of the ancient world?",
+          "answer": "The Great Pyramid of Giza in Egypt, the Hanging Gardens of Babylon, the Statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes, and the Lighthouse of Alexandria"
+        }
       ]
     },
     {
-      "name": "Movies",
+      "name": "How well do you know me?",
       "questions": [
-        {"value": 100, "question": "This movie features a giant ape climbing the Empire State Building", "answer": "What is King Kong?"},
-        {"value": 200, "question": "This actor played Tony Stark in the Marvel Cinematic Universe", "answer": "Who is Robert Downey Jr.?"},
-        {"value": 300, "question": "This director is known for films like 'Pulp Fiction' and 'Kill Bill'", "answer": "Who is Quentin Tarantino?"},
-        {"value": 400, "question": "This 1942 film's last line is 'Louis, I think this is the beginning of a beautiful friendship'", "answer": "What is Casablanca?"},
-        {"value": 500, "question": "This actress won an Oscar for her role in 'Blue Jasmine'", "answer": "Who is Cate Blanchett?"},
-        {"value": 600, "question": "This Japanese animated film features a bathhouse for spirits", "answer": "What is Spirited Away?"},
-        {"value": 700, "question": "This director pioneered the 'jump cut' in 'Breathless'", "answer": "Who is Jean-Luc Godard?"}
+        {"value": 100, "question": "My favourite burger spot!", "answer": "Five Guys Burgers and Fries"},
+        {"value": 200, "question": "If I had a 100 million dollars, how many children would I have and adopt in total?", "answer": "144"},
+        {"value": 300, "question": "What is my dream car? There are two equal options and i'll take either!", "answer": "Porsche Taycan Turbo S or BMW X6 M5 Engine"},
+        {"value": 400, "question": "Name a pet peeve of mine! Theres one im specifically looking for, but I will judge the other options.", "answer": "Shaking your leg causing me to feel it :("},
+        {"value": 500, "question": "What is my favourite baked good and what do I drink with it?", "answer": "Brownies and Malk"},
+        {"value": 600, "question": "What nickname from childhood? ", "answer": "Boulder or Buldozer"},
+        {"value": 700, "question": "", "answer": ""}
       ]
     }
   ]

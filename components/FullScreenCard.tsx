@@ -23,6 +23,15 @@ export const FullScreenCard: React.FC<FullScreenCardProps> = ({
   const [state, setState] = useState<'question' | 'answer' | 'steal'>('question');
   const [stealAttempts, setStealAttempts] = useState(0);
 
+  const isLink = (str: string) => {
+    try {
+      new URL(str);
+      return true;
+    } catch {
+      return false;
+    }
+  };
+
   const handleClick = () => {
     if (state === 'question') {
       setState('answer');
@@ -72,7 +81,11 @@ export const FullScreenCard: React.FC<FullScreenCardProps> = ({
       >
         <div className="bg-blue-600 p-8 rounded-lg max-w-2xl w-full text-center" onClick={(e) => e.stopPropagation()}>
           <h2 className="text-4xl font-bold text-white mb-4">${value}</h2>
-          <p className="text-2xl text-white mb-8">{question}</p>
+          {isLink(question) ? (
+            <img src={question} alt="Question" className="max-w-full max-h-96 mx-auto mb-8 rounded" />
+          ) : (
+            <p className="text-2xl text-white mb-8">{question}</p>
+          )}
           {(state === 'answer' || state === 'steal') && (
             <p className="text-xl text-yellow-300 mb-8">{answer}</p>
           )}
@@ -93,4 +106,3 @@ export const FullScreenCard: React.FC<FullScreenCardProps> = ({
     </AnimatePresence>
   );
 };
-
