@@ -5,7 +5,7 @@
       "questions": [
         { "value": 100, "question": "Chrome, Edge, Safari", "answer": "Web browsers" },
         { "value": 200, "question": "Edgar Allan Poe, Mary Shelley, H.P. Lovecraft", "answer": "Gothic/horror novelists" },
-        { "value": 300, "question": "Indian, Atlantic, Arctic", "answer": "Oceans" },
+        { "value":  300, "question": "Indian, Atlantic, Arctic", "answer": "Oceans" },
         { "value": 400, "question": "Krypton, Argon, Xenon", "answer": "Noble gases" },
         { "value": 500, "question": "Baseball, Cricket, Golf", "answer": "Sports involving bats or clubs" },
         { "value": 600, "question": "Olivia, William, Liam", "answer": "Popular baby names" },
@@ -45,42 +45,43 @@
         { "value": 400, "question": "https://media1.thrillophilia.com/filestore/8r5spqnazgna2y75nhkyqv7enate_Arc%20de%20Triomphe.jpg", "answer": "Arc de Triomphe" },
         { "value": 500, "question": "https://www.usnews.com/object/image/00000169-5e06-df95-a57d-7ec6eaaf0000/18-victoria-falls-getty.jpg?update-time=1706735420134&size=responsive970", "answer": "Victoria Falls" },
         { "value": 600, "question": "https://www.usnews.com/object/image/00000169-5e06-df95-a57d-7ec6d01b0000/12-acropolis-getty.jpg?update-time=1706734650090&size=responsive970", "answer": "Acropolis" },
-        { "value": 700, "question": "https://www.usnews.com/object/image/00000169-5e07-df95-a57d-7ec72aae0000/2-angkor-wat-getty.jpg?update-time=1706734181489&size=responsive970", "answer": "Angkor Wat" }      ]
-    },
-    {
-      "name": "Mini Games",
-      "questions": [
-        { "value": 100, "question": "Wordle", "answer": "" },
-        { "value": 200, "question": "Globele", "answer": "" },
-        { "value": 300, "question": "Travle", "answer": "" },
-        { "value": 400, "question": "Time Guesser; Best score of 2 attempts each", "answer": "" },
-        { "value": 500, "question": "Password; Best of 3", "answer": "" },
-        { "value": 600, "question": "JackBox Torch Game", "answer": "" },
-        { "value": 700, "question": "Describe the Image; Explain it!", "answer": "" }
+        { "value": 700, "question": "https://www.usnews.com/object/image/00000169-5e07-df95-a57d-7ec72aae0000/2-angkor-wat-getty.jpg?update-time=1706734181489&size=responsive970", "answer": "Angkor Wat" }
       ]
     },
     {
-      "name": "History",
+      "name": "Name the Sidekick",
       "questions": [
-        { "value": 100, "question": "This Carthaginian general famously led war elephants across the Alps during the Second Punic War.", "answer": "Who is Hannibal Barca?" },
-        { "value": 200, "question": "He unified China under a single imperial rule in the 3rd century BCE, standardizing weights, measures, and currency.", "answer": "Who is Qin Shi Huang?" },
-        { "value": 300, "question": "Known as the 'Iron King,' this French monarch’s clashes with the papacy and the Knights Templar had far-reaching consequences in medieval Europe.", "answer": "Who is Philip IV?" },
-        { "value": 400, "question": "Renowned for commissioning the 'Domesday Book,' this Norman ruler secured his power in England after his victory at the Battle of Hastings in 1066.", "answer": "Who is William the Conqueror?" },
-        { "value": 500, "question": "Crowned Emperor of the Romans in 800 CE, he united much of Western Europe, ushering in a Carolingian Renaissance.", "answer": "Who is Charlemagne?" },
-        { "value": 600, "question": "This Venetian merchant traveled the Silk Road to the court of Kublai Khan and later published a book that inspired explorers like Columbus.", "answer": "Who is Marco Polo?" },
-        { "value": 700, "question": "What are the Seven Wonders of the Ancient World?", "answer": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, Temple of Artemis at Ephesus, Mausoleum at Halicarnassus, Colossus of Rhodes, Lighthouse of Alexandria" }
+        { "value": 100, "question": "Han Solo", "answer": "Chewbacca" },
+        { "value": 200, "question": "Shrek", "answer": "Donkey" },
+        { "value": 300, "question": "Woody", "answer": "Buzz Lightyear" },
+        { "value": 400, "question": "Aladdin", "answer": "Abu" },
+        { "value": 500, "question": "Captain America", "answer": "Bucky Barnes" },
+        { "value": 600, "question": "Mulan", "answer": "Mushu" },
+        { "value": 700, "question": "Hasan", "answer": "Liv" }
       ]
     },
     {
-      "name": "How well do you know me?",
+      "name": "It's a Trap!",
       "questions": [
-        { "value": 100, "question": "My favourite burger spot!", "answer": "Five Guys Burgers and Fries" },
-        { "value": 200, "question": "If I had 100 million dollars, how many children would I have and adopt in total?", "answer": "144" },
-        { "value": 300, "question": "What is my dream car? There are two equal options and I'll take either!", "answer": "Porsche Taycan Turbo S or BMW X6 M5 Engine" },
-        { "value": 400, "question": "Name a pet peeve of mine! There's one I'm specifically looking for, but I will judge the other options.", "answer": "Shaking your leg causing me to feel it :(" },
-        { "value": 500, "question": "What is my favourite baked good and what do I drink with it?", "answer": "Brownies and Malk" },
-        { "value": 600, "question": "What was my nickname from childhood?", "answer": "Boulder or Bulldozer" },
-        { "value": 700, "question": "", "answer": "" }
+        { "value": 100, "question": "What do cows drink?", "answer": "Water" },
+        { "value": 200, "question": "How many months have 28 days?", "answer": "All of them" },
+        { "value": 300, "question": "How many animals did Moses bring on the Arc?", "answer": "It's Noah's Ark" },
+        { "value": 400, "question": "What has many keys but can't open a lock?", "answer": "a piano" },
+        { "value": 500, "question": "What is 10 divided by half?", "answer": "20" },
+        { "value": 600, "question": "A truck driver goes the wrong way down a one-way street. He passes police but isn’t stopped. Why?", "answer": "He was walking" },
+        { "value": 700, "question": "Where would Liam not be found?", "answer": "In the Toilet" }
+      ]
+    },
+    {
+      "name": "Guess the Language",
+      "questions": [
+        { "value": 100, "question": "Bonjour, Au Revoir", "answer": "French" },
+        { "value": 200, "question": "Konnichiwa, Sayonara", "answer": "Japanese" },
+        { "value": 300, "question": "Salam, Ma'a as-salama", "answer": "Arabic" },
+        { "value": 400, "question": "Zdravstvuyte, Do svidaniya", "answer": "Russian" },
+        { "value": 500, "question": "Namaste, Alvida", "answer": "Hindi" },
+        { "value": 600, "question": "Kamusta, Paalam", "answer": "Tagalog" },
+        { "value": 700, "question": "Shalom, Lehitraot", "answer": "Hebrew" }
       ]
     }
   ]
