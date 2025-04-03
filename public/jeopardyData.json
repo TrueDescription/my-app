@@ -1,149 +1,87 @@
 {
   "categories": [
     {
-      "name": "Flags",
+      "name": "Common Bonds",
       "questions": [
-        {"value": 100, "question": "https://cdn.britannica.com/20/5120-131-92C41B54/Flag-Jamaica.jpg", "answer": "Jamaica"},
-        {"value": 200, "question": "https://cdn.britannica.com/10/5110-131-E09C4E10/Flag-Cuba.jpg", "answer": "Cuba"},
-        {"value": 300, "question": "https://cdn.britannica.com/70/2970-131-84387131/Flag-Nepal.jpg", "answer": "Nepal"},
-        {"value": 400, "question": "https://cdn.britannica.com/40/5340-131-25217F5B/Flag-Afghanistan.jpg", "answer": "Afghanistan"},
-        {"value": 500, "question": "https://cdn.britannica.com/12/4212-131-05399C31/Flag-Angola.jpg", "answer": "Angola"},
-        {"value": 600, "question": "https://cdn.britannica.com/96/3296-131-2CA4815A/Flag-Papua-New-Guinea.jpg", "answer": "Papua New Guinea"},
-        {"value": 700, "question": "https://freedomdestinations.co.uk/wp-content/uploads/Untitled-design-1-1.png", "answer": "Tanzania"}
+        { "value": 100, "question": "Chrome, Edge, Safari", "answer": "Web browsers" },
+        { "value": 200, "question": "Edgar Allan Poe, Mary Shelley, H.P. Lovecraft", "answer": "Gothic/horror novelists" },
+        { "value": 300, "question": "Indian, Atlantic, Arctic", "answer": "Oceans" },
+        { "value": 400, "question": "Krypton, Argon, Xenon", "answer": "Noble gases" },
+        { "value": 500, "question": "Baseball, Cricket, Golf", "answer": "Sports involving bats or clubs" },
+        { "value": 600, "question": "Olivia, William, Liam", "answer": "Popular baby names" },
+        { "value": 700, "question": "Pyramids, Stonehenge, Easter Island", "answer": "Mysterious ancient structures" }
       ]
     },
     {
-      "name": "Women",
+      "name": "Same Names",
       "questions": [
-        {"value": 100, "question": "Known as the favourite color", "answer": "What is Pink?"},
-        {"value": 200, "question": "This element has the atomic number 79", "answer": "What is Gold?"},
-        {"value": 300, "question": "This scientist developed the theory of relativity", "answer": "Who is Albert Einstein?"},
-        {"value": 400, "question": "A professional boxer. She won the gold medal in the women's 66 kg boxing event in a summer olympics", 
-        "answer": "Who is Imane Khelif?"},
-        {"value": 500, "question": "This women was elected women of the year 2015", "answer": "Who is Caitlyn Jenner?"},
-        {"value": 600, "question": "This force keeps planets in orbit", "answer": "What is gravity?"},
-        {"value": 700, "question": "Who is the husband of Scarelett Johanson", "answer": "Who is Colin Jost?"}
+        { "value": 100, "question": "A Beatles member and another name for toilets.", "answer": "John" },
+        { "value": 200, "question": "A red fruit and a tech company that makes phones.", "answer": "Apple" },
+        { "value": 300, "question": "A famous basketball player and a country in the Middle East.", "answer": "Jordan" },
+        { "value": 400, "question": "A large cat and a British car brand.", "answer": "Jaguar" },
+        { "value": 500, "question": "A U.S. state and a former Disney Channel star with a show named after her.", "answer": "Montana" },
+        { "value": 600, "question": "A big cat and a sneaker brand.", "answer": "Puma" },
+        { "value": 700, "question": "A famous train and a local street.", "answer": "Thomas" }
       ]
     },
     {
-      "name": "Name This Person",
+      "name": "Homophones",
       "questions": [
-        {"value": 100, "question": "https://e3.365dm.com/23/05/1600x900/skynews-al-pacino-child_6173814.jpg?20230531092506", 
-        "answer": "Who is Al Pacino?"},
-        {"value": 200, "question": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSq2C9xbWfktj5rYIbJhveZV43WjocMib0tY3EleAFJIun8DHeHQdnMMn41hCgH6Ymspko9LES2vHayWZw", 
-        "answer": "Who is Anthony Hopkins?"},
-        {"value": 300, "question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowkiNA3FBJ017_McUFO6HsG9ybDc9KG1Vkg&s", 
-        "answer": "Who is Michelle Monaghan?"},
-        {"value": 400, "question": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMvJgu_cJe32-uhvimrnO3nKahAECCRfF_b6CQAK7KywWUsBCGMpi1ITdM4LMR2kg_KdF2oxY-RpH1sggh7IHa8g", 
-        "answer": "Who is Ben Kingsly?"},
-        {"value": 500, "question": "This Greek poet wrote the Iliad and the Odyssey", 
-        "answer": "Who is Homer?"},
-        {"value": 600, "question": "This Russian author wrote 'War and Peace'", 
-        "answer": "Who is Leo Tolstoy?"},
-        {"value": 700, "question": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQueKF1_X1Lz7cgg4Xr8ThhKQakZMz0cb6o7g&s", 
-        "answer": "Who is Ella Purnell?"}
+        { "value": 100, "question": "A male deer, and the money you pay for something.", "answer": "Buck" },
+        { "value": 200, "question": "A class in school, and a rough texture.", "answer": "Course / Coarse" },
+        { "value": 300, "question": "Something on your head, and someone in line for the throne.", "answer": "Hair / Heir" },
+        { "value": 400, "question": "To carry a heavy burden, and a word that goes with naked.", "answer": "Bear / Bare" },
+        { "value": 500, "question": "Royal power, and to control a horse.", "answer": "Reign / Rein" },
+        { "value": 600, "question": "A pastry with fruit, and a math term.", "answer": "Pie / Pi" },
+        { "value": 700, "question": "A unit of inheritance in biology, and what Hasan is wearing right now.", "answer": "Gene / Jean" }
       ]
     },
     {
-      "name": "Geography",
+      "name": "Landmarks",
       "questions": [
-        {"value": 100, "question": "Known as the largest desert on earth", "answer": "What is the The Sahara Desert?"},
-        {
-          "value": 300,
-          "question": "Excluding continents, this is the world’s largest island by area, located between the Arctic and Atlantic Oceans.",
-          "answer": "What is Greenland?"
-        },
-        {
-          "value": 200,
-          "question": "Despite its frigid conditions, this polar region is actually considered the largest desert in the world.",
-          "answer": "What is Antarctica?"
-        },
-        {
-          "value": 400,
-          "question": "This Peruvian UNESCO World Heritage site is perched high in the Andes Mountains.",
-          "answer": "What is Machu Picchu?"
-        },
-        {
-          "value": 500,
-          "question": "Name a country for every letter in the alphabet except X.",
-          "answer": ""
-        },
-        {
-          "value": 600,
-          "question": "This famous city is uniquely situated on two continents, divided by the Bosporus Strait.",
-          "answer": "What is Istanbul?"
-        },
-        {
-          "value": 700,
-          "question": "Located on the Zambezi River at the border between Zambia and Zimbabwe, this waterfall is known locally as 'Mosi-oa-Tunya,' or 'The Smoke that Thunders.'",
-          "answer": "What is Victoria Falls?"
-        }
-      ]
+        { "value": 100, "question": "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg", "answer": "Big Ben" },
+        { "value": 200, "question": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20231122221124_45448c583eabca7ad6be347939c641312d4ce7570209ad29d3345175aea14fec.webp", "answer": "Christ the Redeemer" },
+        { "value": 300, "question": "https://images.ctfassets.net/cnu0m8re1exe/1tI0J6fFR4TQAU7YApSjcE/3aedcf058c5f2cd9212b86731541ac3d/shutterstock_745306897.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill", "answer": "Leaning Tower of Pisa" },
+        { "value": 400, "question": "https://media1.thrillophilia.com/filestore/8r5spqnazgna2y75nhkyqv7enate_Arc%20de%20Triomphe.jpg", "answer": "Arc de Triomphe" },
+        { "value": 500, "question": "https://www.usnews.com/object/image/00000169-5e06-df95-a57d-7ec6eaaf0000/18-victoria-falls-getty.jpg?update-time=1706735420134&size=responsive970", "answer": "Victoria Falls" },
+        { "value": 600, "question": "https://www.usnews.com/object/image/00000169-5e06-df95-a57d-7ec6d01b0000/12-acropolis-getty.jpg?update-time=1706734650090&size=responsive970", "answer": "Acropolis" },
+        { "value": 700, "question": "https://www.usnews.com/object/image/00000169-5e07-df95-a57d-7ec72aae0000/2-angkor-wat-getty.jpg?update-time=1706734181489&size=responsive970", "answer": "Angkor Wat" }      ]
     },
     {
       "name": "Mini Games",
       "questions": [
-        {"value": 100, "question": "Wordle", "answer": ""},
-        {"value": 200, "question": "Globele", "answer": ""},
-        {"value": 300, "question": "Travle", "answer": ""},
-        {"value": 400, "question": "Time Guesser; Best score of 2 attempts each", "answer": ""},
-        {"value": 500, "question": "Password; Best of 3", "answer": ""},
-        {"value": 600, "question": "JackBox Torch Game", "answer": ""},
-        {"value": 700, "question": "Describe the Image; Explain It!", "answer": ""}
+        { "value": 100, "question": "Wordle", "answer": "" },
+        { "value": 200, "question": "Globele", "answer": "" },
+        { "value": 300, "question": "Travle", "answer": "" },
+        { "value": 400, "question": "Time Guesser; Best score of 2 attempts each", "answer": "" },
+        { "value": 500, "question": "Password; Best of 3", "answer": "" },
+        { "value": 600, "question": "JackBox Torch Game", "answer": "" },
+        { "value": 700, "question": "Describe the Image; Explain it!", "answer": "" }
       ]
     },
     {
       "name": "History",
       "questions": [
-        {
-          "value": 100,
-          "question": "This Carthaginian general famously led war elephants across the Alps during the Second Punic War.",
-          "answer": "Who is Hannibal Barca?"
-        },
-        {
-          "value": 200,
-          "question": "He unified China under a single imperial rule in the 3rd century BCE, standardizing weights, measures, and currency.",
-          "answer": "Who is Qin Shi Huang?"
-        },
-        {
-          "value": 300,
-          "question": "Known as the 'Iron King,' this French monarch’s clashes with the papacy and the Knights Templar had far-reaching consequences in medieval Europe.",
-          "answer": "Who is Philip IV?"
-        },
-        {
-          "value": 400,
-          "question": "Renowned for commissioning the 'Domesday Book,' this Norman ruler secured his power in England after his victory at the Battle of Hastings in 1066.",
-          "answer": "Who is William the Conqueror?"
-        },
-        {
-          "value": 500,
-          "question": "Crowned Emperor of the Romans in 800 CE, he united much of Western Europe, ushering in a Carolingian Renaissance.",
-          "answer": "Who is Charlemagne?"
-        },
-        {
-          "value": 600,
-          "question": "This Venetian merchant traveled the Silk Road to the court of Kublai Khan and later published a book that inspired explorers like Columbus.",
-          "answer": "Who is Marco Polo?"
-        },
-        {
-          "value": 700,
-          "question": "What are the seven wonders of the ancient world?",
-          "answer": "The Great Pyramid of Giza in Egypt, the Hanging Gardens of Babylon, the Statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes, and the Lighthouse of Alexandria"
-        }
+        { "value": 100, "question": "This Carthaginian general famously led war elephants across the Alps during the Second Punic War.", "answer": "Who is Hannibal Barca?" },
+        { "value": 200, "question": "He unified China under a single imperial rule in the 3rd century BCE, standardizing weights, measures, and currency.", "answer": "Who is Qin Shi Huang?" },
+        { "value": 300, "question": "Known as the 'Iron King,' this French monarch’s clashes with the papacy and the Knights Templar had far-reaching consequences in medieval Europe.", "answer": "Who is Philip IV?" },
+        { "value": 400, "question": "Renowned for commissioning the 'Domesday Book,' this Norman ruler secured his power in England after his victory at the Battle of Hastings in 1066.", "answer": "Who is William the Conqueror?" },
+        { "value": 500, "question": "Crowned Emperor of the Romans in 800 CE, he united much of Western Europe, ushering in a Carolingian Renaissance.", "answer": "Who is Charlemagne?" },
+        { "value": 600, "question": "This Venetian merchant traveled the Silk Road to the court of Kublai Khan and later published a book that inspired explorers like Columbus.", "answer": "Who is Marco Polo?" },
+        { "value": 700, "question": "What are the Seven Wonders of the Ancient World?", "answer": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, Temple of Artemis at Ephesus, Mausoleum at Halicarnassus, Colossus of Rhodes, Lighthouse of Alexandria" }
       ]
     },
     {
       "name": "How well do you know me?",
       "questions": [
-        {"value": 100, "question": "My favourite burger spot!", "answer": "Five Guys Burgers and Fries"},
-        {"value": 200, "question": "If I had a 100 million dollars, how many children would I have and adopt in total?", "answer": "144"},
-        {"value": 300, "question": "What is my dream car? There are two equal options and i'll take either!", "answer": "Porsche Taycan Turbo S or BMW X6 M5 Engine"},
-        {"value": 400, "question": "Name a pet peeve of mine! Theres one im specifically looking for, but I will judge the other options.", "answer": "Shaking your leg causing me to feel it :("},
-        {"value": 500, "question": "What is my favourite baked good and what do I drink with it?", "answer": "Brownies and Malk"},
-        {"value": 600, "question": "What nickname from childhood? ", "answer": "Boulder or Buldozer"},
-        {"value": 700, "question": "", "answer": ""}
+        { "value": 100, "question": "My favourite burger spot!", "answer": "Five Guys Burgers and Fries" },
+        { "value": 200, "question": "If I had 100 million dollars, how many children would I have and adopt in total?", "answer": "144" },
+        { "value": 300, "question": "What is my dream car? There are two equal options and I'll take either!", "answer": "Porsche Taycan Turbo S or BMW X6 M5 Engine" },
+        { "value": 400, "question": "Name a pet peeve of mine! There's one I'm specifically looking for, but I will judge the other options.", "answer": "Shaking your leg causing me to feel it :(" },
+        { "value": 500, "question": "What is my favourite baked good and what do I drink with it?", "answer": "Brownies and Malk" },
+        { "value": 600, "question": "What was my nickname from childhood?", "answer": "Boulder or Bulldozer" },
+        { "value": 700, "question": "", "answer": "" }
       ]
     }
   ]
 }
-
